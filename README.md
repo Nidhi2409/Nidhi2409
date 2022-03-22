@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nidhi2409
-- 👀 I’m interested in Data analytics,Busisness Intelligence and Front end Developement
+- 👀 I’m interested in Data analytics, Busisness Intelligence and Front end Developement
 - 🌱 I’m currently learning MSc. Data Science
 
 <!---
